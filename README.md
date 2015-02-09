@@ -1,0 +1,1 @@
+# GPRSBee_LP_SMS2var
