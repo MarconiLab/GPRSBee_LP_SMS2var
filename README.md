@@ -2,6 +2,8 @@
 
 This code send SMS text with SMSdata. SMSdata is time stamped RTC temperature and battery voltage value using GPRSBee. Low power is implemented every SLPNG seconds defined in the code.
 
+Message received: 2015/2/9 11:31:35 Temp:26.25, Volt:4.26
+
 #Configuration
 Send SMS every SLPNG seconds and go to sleep.
 
