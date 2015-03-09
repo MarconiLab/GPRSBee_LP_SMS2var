@@ -14,6 +14,7 @@
   UartSBee Gnd <--> Gnd Stalker
   UartSBee Rx <--> DIAGPORT_TX Stalker
   UartSBee TX <--> DIAGPORT_RX Stalker
+  
   */
 
 #include <avr/sleep.h>
