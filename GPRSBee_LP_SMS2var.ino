@@ -15,6 +15,7 @@
   UartSBee Rx <--> DIAGPORT_TX Stalker
   UartSBee TX <--> DIAGPORT_RX Stalker
   
+  Author: Rodrigo Carbajales MarconiLab
   */
 
 #include <avr/sleep.h>
